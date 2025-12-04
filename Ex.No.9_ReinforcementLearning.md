@@ -1,6 +1,6 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
 ### DATE: 
-### NAME: MANOJ G
+### NAME: Karthikeyan R
 ### REGISTER NUMBER : 212222240045
 
 ### AIM: 
